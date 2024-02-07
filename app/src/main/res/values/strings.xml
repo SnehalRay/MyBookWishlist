@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snehal1-MyBookWishlist</string>
+    <string name="book_wishlist">Book Wishlist:</string>
+    <string name="book_1">BOOK 1</string>
+
+    <string name="delete_item">delete icon</string>
+    <string name="status_description">Status</string>
+    <string name="snehal1_bookwishlist">Snehal1-BookWishList</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="author">Author</string>
+    <string name="book_name">Book Name</string>
+</resources>
