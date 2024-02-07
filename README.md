@@ -4,5 +4,4 @@ Features:
 -Counter on how many books are there
 -Counter on how many books you have read
 
-Picture and videos are in a folder in this repository itself
-
+A video of the project demonstration will also be in this repo itself
